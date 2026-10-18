@@ -1,1 +1,1 @@
-origin: https://github.com/eishare/Singbox-nodejs
+origin: https://github.com/eishare/Node.js
